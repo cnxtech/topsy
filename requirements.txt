@@ -6,6 +6,6 @@ Faker==0.7.10
 packaging==16.8
 pyparsing==2.2.0
 python-dateutil==2.6.0
-requests==2.13.0
+requests==2.31.0
 six==1.10.0
 stripe==1.50.0
